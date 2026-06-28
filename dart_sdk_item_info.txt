@@ -1,0 +1,10 @@
+﻿
+
+FullName      : C:\flutter\bin\cache\dart-sdk
+Attributes    : Directory, ReparsePoint
+LinkType      : Junction
+Target        : {C:\flutter\bin\cache\dart-sdk.old1}
+PSIsContainer : True
+
+
+

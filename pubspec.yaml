@@ -1,0 +1,48 @@
+name: quran_app_clean
+description: "A clean Quran reading app with adjustable font size"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.0.5    # لإدارة الحالة مستقبلاً
+  http: ^1.1.1        # لتحميل الملفات أو التحديثات
+  shared_preferences: ^2.1.0
+  url_launcher: ^6.2.4
+  share_plus: ^10.0.2
+  package_info_plus: ^8.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/quran/quran-uthmani.txt
+    - assets/images/icon.png
+
+  fonts:
+    - family: Amiri
+      fonts:
+        - asset: assets/fonts/AmiriQuran-Regular.ttf
+    - family: IBMPlexSansArabic
+      fonts:
+        - asset: assets/fonts/IBMPlexSansArabic-Medium.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
+  adaptive_icon_background: "#FFFFFF"
+  web:
+    generate: true
+    image_path: "assets/images/icon.png"

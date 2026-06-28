@@ -1,0 +1,39 @@
+
+Name                                     Length LastWriteTime         Attribute
+                                                                              s
+----                                     ------ -------------         ---------
+.dartignore                                   3 2/23/2026 4:40:21 PM    Archive
+android-internal-build-artifacts.stamp       40 2/19/2026 11:17:48 PM   Archive
+android-sdk.stamp                            40 2/19/2026 11:17:22 PM   Archive
+dart-sdk                                        4/1/2026 1:58:07 PM   Directory
+dart-sdk.old1                                   2/19/2026 11:16:34 PM Directory
+dart-sdk.old1.LICENSE.md                    579 2/18/2026 10:48:06 PM   Archive
+dart-sdk.old2                                   4/1/2026 1:50:57 PM   Directory
+dart-sdk.old3                                   4/1/2026 1:53:54 PM   Directory
+dart-sdk.old4                                   4/1/2026 1:53:55 PM   Directory
+dart-sdk.old5                                   4/1/2026 1:56:57 PM   ...ePoint
+dart-sdk-windows-x64.zip               33892037 3/23/2026 11:19:00 PM   Archive
+engine.realm                                  2 4/1/2026 1:58:06 PM     Archive
+engine.stamp                                 42 4/1/2026 1:58:06 PM     Archive
+engine_stamp.json                           237 2/19/2026 11:16:55 PM   Archive
+engine_stamp.stamp                           40 2/19/2026 11:16:55 PM   Archive
+flutter_sdk.stamp                            40 2/19/2026 11:17:03 PM   Archive
+flutter_tools.stamp                           5 2/23/2026 4:40:43 PM    Archive
+flutter_version_check.stamp                 180 3/23/2026 10:15:54 PM   Archive
+flutter_web_sdk.stamp                        40 2/19/2026 11:17:50 PM   Archive
+font-subset.stamp                            40 2/19/2026 11:17:03 PM   Archive
+gradle_wrapper.stamp                         96 2/19/2026 11:17:01 PM   Archive
+ios-deploy.stamp                             40 2/19/2026 11:17:03 PM   Archive
+ios-sdk.stamp                                40 2/19/2026 11:17:49 PM   Archive
+libimobiledevice.stamp                       40 3/23/2026 10:15:56 PM   Archive
+libimobiledeviceglue.stamp                   40 2/19/2026 11:17:03 PM   Archive
+libplist.stamp                               40 2/19/2026 11:17:03 PM   Archive
+libusbmuxd.stamp                             40 3/23/2026 10:15:56 PM   Archive
+linux-sdk.stamp                              40 2/19/2026 11:18:07 PM   Archive
+macos-sdk.stamp                              40 2/19/2026 11:18:07 PM   Archive
+material_fonts.stamp                         86 2/19/2026 11:17:01 PM   Archive
+openssl.stamp                                40 2/19/2026 11:17:03 PM   Archive
+windows-sdk.stamp                            40 2/19/2026 11:18:07 PM   Archive
+
+
+

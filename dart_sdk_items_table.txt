@@ -1,0 +1,8 @@
+﻿
+Name                                  Attributes LinkType Target               
+----                                  ---------- -------- ------               
+dart-sdk                 Directory, ReparsePoint Junction {C:\flutter\bin\ca...
+dart-sdk-windows-x64.zip                 Archive          {}                   
+dart-sdk.old1.LICENSE.md                 Archive          {}                   
+
+

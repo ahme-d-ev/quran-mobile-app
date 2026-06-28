@@ -1,0 +1,13 @@
+P1=True
+P2=False
+P3=False
+
+
+FullName   : C:\flutter\bin\cache\dart-sdk
+Attributes : Directory
+LinkType   : 
+Target     : {}
+
+
+
+

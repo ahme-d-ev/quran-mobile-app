@@ -1,0 +1,10 @@
+
+
+FullName      : C:\flutter\bin\cache\flutter.bat.lock
+Length        : 0
+LastWriteTime : 4/1/2026 7:01:10 PM
+Attributes    : Archive
+
+
+
+
